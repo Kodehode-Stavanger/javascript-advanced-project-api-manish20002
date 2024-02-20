@@ -13,6 +13,8 @@ We have learned about asynchronous Javascript, and specifically about using prom
 $ Vite (v5.0.8)
 
 $ Quote Garden API ("https://quote-garden.onrender.com/api/v3/quotes/random")
+## About me ~
+![Screenshot 2024-02-17 191728](https://github.com/manish20002/webpages/assets/73772706/6a14cda6-3209-490e-be91-5a6eee230c8c)
 
 ## Follow Me ~
 ### `ig`:- [Manish Thirani](https://www.instagram.com/manish_heroisgreat_20/)
